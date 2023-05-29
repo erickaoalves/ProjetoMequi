@@ -10,32 +10,32 @@ public class ProjetoMequi {
 
 		     // INTRODUÇAO DO CARDÁPIO //
 
-     	System.out.println("---------------------------");
-     	System.out.println("---------------------------");
-    	System.out.println("-------PROJETO MEQUI-------");
-    	System.out.println("---------------------------");
-     	System.out.println("---------------------------");
-	   	System.out.println("");
+		System.out.println("---------------------------");
+		System.out.println("---------------------------");
+		System.out.println("-------PROJETO MEQUI-------");
+		System.out.println("---------------------------");
+		System.out.println("---------------------------");
+		System.out.println("");
 		System.out.println("");
 		System.out.println("----SELECIONE UMA OPÇÃO----");
 		System.out.println("");
-    	System.out.println("*********Cardápio**********");
-     	System.out.println("");
- 		System.out.println("1 - Lançamentos");
+		System.out.println("*********Cardápio**********");
+		System.out.println("");
+		System.out.println("1 - Lançamentos");
 		System.out.println("2 - Brabos do Méqui");
- 		System.out.println("3 - Sanduíches de Carne Bovina");
-     	System.out.println("4 - Família Tasty");
-    	System.out.println("5 - Sanduíches de Frango");
+		System.out.println("3 - Sanduíches de Carne Bovina");
+		System.out.println("4 - Família Tasty");
+		System.out.println("5 - Sanduíches de Frango");
 		System.out.println("6 - Mc Lanche Feliz");
-    	System.out.println("7 - Méqui 1000");
- 		System.out.println("8 - Acompanhamentos");
+		System.out.println("7 - Méqui 1000");
+		System.out.println("8 - Acompanhamentos");
 		System.out.println("9 - Sobremesas");
-    	System.out.println("10 - Bebidas Frias");
-    	System.out.println("11 - Café da Manhã");
-    	System.out.println("12 - Bebidas Quentes");
-    	System.out.println("13 - Mc Ofertas");
-    	System.out.println("14 - Méqui Box");
-    	System.out.println("15 - Mc Café");
+		System.out.println("10 - Bebidas Frias");
+		System.out.println("11 - Café da Manhã");
+		System.out.println("12 - Bebidas Quentes");
+		System.out.println("13 - Mc Ofertas");
+		System.out.println("14 - Méqui Box");
+		System.out.println("15 - Mc Café");
 
 		                        // 1ª OPÇÃO MENU = LANÇAMENTOS //
 
